@@ -63,6 +63,7 @@ IMG-Background_Remover/
 ## ✨ Demo
 
 You can see a live demo (if deployed) or run locally by opening `index.html`.
+https://img-background-remover-ten.vercel.app/
 
 ## 📝 Notes
 
